@@ -8,10 +8,10 @@ The Word2Vec project aims to train word embeddings using the continuous bag-of-w
 ## Results
 
 ### Loss
-![link text](https://github.com/Rutvik1727/Face-Recognition/blob/main/Images/img%20(3).png)
+![](https://github.com/Rutvik1727/Word2Vec/blob/main/Images/plt%20(3).png)
 
 ### Accuracy
-![link text](https://github.com/Rutvik1727/Face-Recognition/blob/main/Images/img%20(2).png)
+![](https://github.com/Rutvik1727/Word2Vec/blob/main/Images/plt%20(2).png)
 
 ### Word Embedding Visualization
-![link text](https://github.com/Rutvik1727/Face-Recognition/blob/main/Images/img%20(1).png)
+![](https://github.com/Rutvik1727/Word2Vec/blob/main/Images/plt%20(1).png)
